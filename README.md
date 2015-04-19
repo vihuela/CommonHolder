@@ -1,0 +1,2 @@
+# CommonHolder
+recycleView现在都是面向Holder，那ListView也要跟上
