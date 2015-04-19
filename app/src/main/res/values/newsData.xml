@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="avator">
+        <item>http://b.hiphotos.baidu.com/zhidao/pic/item/0b46f21fbe096b63bfbe97970d338744eaf8ac56.jpg</item>
+        <item>http://a.hiphotos.baidu.com/image/pic/item/50da81cb39dbb6fd3afea0810a24ab18962b37eb.jpg</item>
+        <item>http://c.hiphotos.baidu.com/image/pic/item/03087bf40ad162d9d08a579412dfa9ec8b13cdd5.jpg</item>
+        <item>http://h.hiphotos.baidu.com/image/pic/item/5bafa40f4bfbfbed4cb0092e7af0f736aec31ff1.jpg</item>
+        <item>http://d.hiphotos.baidu.com/image/pic/item/9e3df8dcd100baa1ae0b2db14510b912c8fc2e90.jpg</item>
+        <item>http://c.hiphotos.baidu.com/image/pic/item/4034970a304e251fd77ba3bfa486c9177e3e53ec.jpg</item>
+        <item>http://e.hiphotos.baidu.com/image/pic/item/7aec54e736d12f2e350068e74cc2d56285356834.jpg</item>
+        <item>http://f.hiphotos.baidu.com/image/pic/item/c75c10385343fbf2cf0471d9b47eca8065388f24.jpg</item>
+        <item>http://c.hiphotos.baidu.com/image/pic/item/d788d43f8794a4c277d417360cf41bd5ad6e3933.jpg</item>
+        <item>http://b.hiphotos.baidu.com/image/w%3D230/sign=b0d8c4a781025aafd33279c8cbecab8d/060828381f30e924d9521e564f086e061c95f7e7.jpg</item>
+        <item>http://f.hiphotos.baidu.com/image/pic/item/aa18972bd40735fa1bd09a439a510fb30f24082c.jpg</item>
+        <item>http://e.hiphotos.baidu.com/image/pic/item/562c11dfa9ec8a133f62a83ff303918fa1ecc0f1.jpg</item>
+        <item>http://c.hiphotos.baidu.com/image/pic/item/5d6034a85edf8db109a291bc0d23dd54574e745e.jpg</item>
+        <item>http://d.hiphotos.baidu.com/image/pic/item/738b4710b912c8fc20da2137f8039245d688211b.jpg</item>
+        <item>http://e.hiphotos.baidu.com/image/w%3D230/sign=f36ead6a9e16fdfad86cc1ed848e8cea/241f95cad1c8a7869d961c4f6409c93d70cf5036.jpg</item>
+        <item>http://f.hiphotos.baidu.com/image/pic/item/dbb44aed2e738bd42e67f7d4a58b87d6267ff995.jpg</item>
+        <item>http://e.hiphotos.baidu.com/image/w%3D230/sign=f62383caba096b63811959533c328733/5882b2b7d0a20cf4cdc8ba3a72094b36adaf99ff.jpg</item>
+        <item>http://h.hiphotos.baidu.com/image/w%3D230/sign=b84f4c71422309f7e76faa11420f0c39/b3119313b07eca80923d6002952397dda144831f.jpg</item>
+        <item>http://h.hiphotos.baidu.com/image/pic/item/562c11dfa9ec8a136c7d7b03f503918fa1ecc0e9.jpg</item>
+        <item>http://h.hiphotos.baidu.com/image/pic/item/43a7d933c895d14352e438a470f082025baf07a3.jpg</item>
+    </string-array>
+    <string-array name="title">
+        <item>十八大后落马老虎首现不认罪</item>
+        <item>70城3月放假：12城市环比上涨</item>
+        <item>专家：房价短期内不会大幅上涨</item>
+        <item>吉林查封16000吨问题稻谷</item>
+        <item>成都女子2年考19次拿到驾照</item>
+        <item>普京谈再婚：要先把前妻嫁出去</item>
+        <item>假医生流连医院3周才被识破</item>
+        <item>复旦"文艺腔"回应学生投诉</item>
+        <item>老太"碰瓷"失手又"碰"公交车</item>
+        <item>老人花钱买儿媳 女儿却被拐走</item>
+        <item>男子寻仇找错人 误砍无辜少年</item>
+        <item>乘客北京地铁1号线坠轨身亡</item>
+        <item>盗贼得手在江边狂喊发泄被抓</item>
+        <item>女子丢LV侦察兵男友出手找回</item>
+        <item>沪指4个月涨25% 证监会示警</item>
+        <item>22岁耳灵姑娘听出飞机故障</item>
+        <item>陕西检察院决定逮捕马晓东</item>
+        <item>74个中央部门津贴高于工资</item>
+        <item>流浪猫掏鸟窝被困高树10多天</item>
+        <item>海南小学无厕所学生树林解急</item>
+    </string-array>
+    <string-array name="detail">
+        <item>十八大后落马老虎首现不认罪详情详情详情情详情情详情情详情情详情情</item>
+        <item>70城3月放假：12城市环比上涨情详情情详情情详情情详情情详情情</item>
+        <item>专家：房价短期内不会大幅上涨情详情情详情情详情情详情情详情情</item>
+        <item>吉林查封16000吨问题稻谷情详情情详情情详情情详情情详情情</item>
+        <item>成都女子2年考19次拿到驾照情详情情详情情详情情详情情详情情</item>
+        <item>普京谈再婚：要先把前妻嫁出去情详情情详情情详情情详情情详情情</item>
+        <item>假医生流连医院3周才被识破情详情情详情情详情情详情情详情情</item>
+        <item>复旦"文艺腔"回应学生投诉情详情情详情情详情情详情情详情情</item>
+        <item>老太"碰瓷"失手又"碰"公交车情详情情详情情详情情详情情详情情</item>
+        <item>老人花钱买儿媳 女儿却被拐走情详情情详情情详情情详情情详情情</item>
+        <item>男子寻仇找错人 误砍无辜少年情详情情详情情详情情详情情详情情</item>
+        <item>乘客北京地铁1号线坠轨身亡情详情情详情情详情情详情情详情情</item>
+        <item>盗贼得手在江边狂喊发泄被抓情详情情详情情详情情详情情详情情</item>
+        <item>女子丢LV侦察兵男友出手找回情详情情详情情详情情详情情详情情</item>
+        <item>沪指4个月涨25% 证监会示警情详情情详情情详情情详情情详情情</item>
+        <item>22岁耳灵姑娘听出飞机故障情详情情详情情详情情详情情详情情</item>
+        <item>陕西检察院决定逮捕马晓东情详情情详情情详情情详情情详情情</item>
+        <item>74个中央部门津贴高于工资情详情情详情情详情情详情情详情情</item>
+        <item>流浪猫掏鸟窝被困高树10多天情详情情详情情详情情详情情详情情</item>
+        <item>海南小学无厕所学生树林解急情详情情详情情详情情详情情详情情</item>
+    </string-array>
+</resources>
